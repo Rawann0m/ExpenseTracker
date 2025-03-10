@@ -1,6 +1,6 @@
 # Personal Expense Tracker
 
-A SwiftUI-based app that helps users track their expenses by adding, viewing, sorting, and filtering them. It supports dynamic updating of the expense list and allows toggling between dark and light modes. The app also stores expenses persistently using `@State`, `@ObservedObject`, and `UserDefaults` for saving data.
+A SwiftUI-based app that helps users track their expenses by adding, viewing, sorting, and filtering them. It supports dynamic updating of the expense list and allows toggling between dark and light modes. The app also stores expenses persistently using `@State`, `@ObservedObject`.
 
 ## Features
 
